@@ -30,7 +30,7 @@ namespace sayı_karsilastirma
             }
             if(sayi1 < sayi2)
             {
-                MessageBox.Show("2.sayı 1.sayıdan küçüktür");
+                MessageBox.Show("1.sayı 2.sayıdan küçüktür");
             }
             
 
